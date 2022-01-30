@@ -1,7 +1,7 @@
 {{-- @include('header') --}}
 
 <h1>User page</h1>
-
+{{-- if else defined --}}
 {{-- @if ($user == "anil")
 <h3>Hi {{ $user }}</h3>
 @elseif($user == "sam")
